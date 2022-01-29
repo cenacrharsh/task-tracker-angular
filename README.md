@@ -4,5 +4,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Project Demo
 
-![img 1](./ss/ss1)
-![img 2](./ss/ss1)
+![img 1](./ss/ss1.png)
+![img 2](./ss/ss1.png)
